@@ -12,6 +12,7 @@ ZINWOOS
 ## 작업내용
 
 220919 초기세팅
+220930 프로젝트완료
 
 ## ZINWOOS **프로젝트 Front-end소개**
 
@@ -41,6 +42,9 @@ https://github.com/ChoiRamsey/zinwoos/blob/main/%E1%84%8C%E1%85%B5%E1%86%AB%E1%8
 > Front-End : React.js, sass, RESTful API
 
 ### **구현 기능**
+저는 Nav, 회원가입/로그인, 장바구니 기능 구현을 담당했습니다.
+아래 링크는 이 프로젝트에 대학 회고글입니다.
+https://velog.io/@bigwave-cho/wecode1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0
 
 ### **공통**
 
